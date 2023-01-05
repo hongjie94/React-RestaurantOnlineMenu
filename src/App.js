@@ -6,11 +6,40 @@ import About from './components/Home/sections/About';
 import Contact from './components/Contact/Contact';
 import ChineseMenu from './components/Menu/Chinese/ChineseMenu';
 import ThaiMenu from './components/Menu/Thai/ThaiMenu';
+import Snowfall from 'react-snowfall';
+import { useState, useEffect } from 'react'
 
 function App() {
+
+    const [showSnow, setShowSnow] = useState(false);
+
+    var today = new Date();
+    var curMonth = String(today.getMonth());
+
+    const toggleSnow = (month)=> {
+      switch(month) {
+        case "11":
+          setShowSnow(true);
+          break;
+        case "0":
+          setShowSnow(true);
+          break;
+        case "1":
+          setShowSnow(true);
+          break;
+        default:
+          setShowSnow(false);
+      }
+    }
+
+    useEffect(() => {
+      toggleSnow(curMonth);
+    }, [curMonth]);
+   
   return (
     <Router>
-      <div className="app">
+      <div className="app" style={{ position: 'relative' }}>
+      {showSnow && <Snowfall/> }
         <Navbar/>
         <Switch>
           <Route exact path="/">
@@ -34,5 +63,4 @@ function App() {
     </Router>
   );
 }
-
 export default App;

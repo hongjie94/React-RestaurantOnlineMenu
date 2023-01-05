@@ -23,27 +23,27 @@ const ThaiMenu = () => {
   const SliderImgs = [
     {
       "src": slider1,
-      "price": "$10",
+      "price": "$12",
       "name": "Pineapple Fried Rice"
     }, 
     {
       "src": slider2,
-      "price": "$12",
+      "price": "$14",
       "name": "S1. Thai's Beef"
     }, 
     {
       "src": slider3,
-      "price": "$11",
+      "price": "$13",
       "name": "S2. Thai Mango Chicken"
     }, 
     {
       "src": slider4,
-      "price": "$11",
+      "price": "$13",
       "name": "C2. Green Curry"
     }, 
     {
       "src": slider5,
-      "price": "$11",
+      "price": "$13",
       "name": "C1. Red Curry"
     }, 
     {
@@ -53,7 +53,7 @@ const ThaiMenu = () => {
     }, 
     {
       "src": slider7,
-      "price": "$11",
+      "price": "$13",
       "name": "S3. Coconut Shrimp"
     }
   ];
@@ -118,8 +118,8 @@ const ThaiMenu = () => {
             <div className="col-lg-4 col-12">
                 <div className="row">
                 <h1 className="ThaiCategory"> Noodles & Rice</h1>
-                  <span className="category_sub">Choice of Chicken, Beef or Shrimp $10</span> 
-                  <span className="category_sub">Tofu & Vegetables $9</span> 
+                  <span className="category_sub">Choice of Chicken, Beef or Shrimp $12</span> 
+                  <span className="category_sub">Tofu & Vegetables $11</span> 
                   <div className="col-12">
                   <GetMenuItems 
                     Category={'Noodles & Rice'}
@@ -128,8 +128,8 @@ const ThaiMenu = () => {
                 </div>
                 <div className="row">
                 <h1 className="ThaiCategory"> Thai Curry</h1>
-                <span className="category_sub">Choice of Chicken, Beef or Shrimp $11</span> 
-                  <span className="category_sub">Tofu & Vegetables $10</span> 
+                <span className="category_sub">Choice of Chicken, Beef or Shrimp $13</span> 
+                  <span className="category_sub">Tofu & Vegetables $12</span> 
                   <div className="col-12">
                   <GetMenuItems 
                     Category={'Thai Curry'}
@@ -141,7 +141,7 @@ const ThaiMenu = () => {
             <div className="col-lg-4 col-12">
               <div className="row"> 
                 <h1 className="ThaiCategory"> Thai Cuisine</h1>
-                <span className="category_sub">Choice of Chicken, Beef or Shrimp $11</span> 
+                <span className="category_sub">Choice of Chicken, Beef or Shrimp $13</span> 
                 <span className="category_sub">(Choose From M1-M4)</span> 
                 <div className="col-12">
                 <GetMenuItems 
@@ -163,5 +163,4 @@ const ThaiMenu = () => {
       </div>
   )
 }
-
 export default ThaiMenu;

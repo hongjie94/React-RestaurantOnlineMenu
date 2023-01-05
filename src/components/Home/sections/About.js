@@ -6,11 +6,11 @@ const About = () => {
     <section id="About" className="About">
       <h1 className="aboutText">About</h1>
 
-      <p className="aboutText"> New China Restaurant is located on 109 Price Chopper Plaza in Plaatine Bridge, NY. Restaurant 
-
-      Serving up a good variety Chinese dishes including Hunan, Szechuan, and Cantonese dishes. 
-      New China also Serving delicious Thai dishes. Feel free to check out our Chinese and Thai 
-      menus. As of COVID-19 Restaurant Move To a Takeout-Only Model. 
+      <p className="aboutText"> 
+      Welcome to our Chinese and Thai food restaurant! We are a family-owned business dedicated to bringing authentic and delicious Asian cuisine to our community.
+      Our menu features a variety of dishes from both China and Thailand, including favorites such as pad Thai, spring rolls, and stir fry. We also offer a selection of vegetarian options, as well as several gluten-free options for those with dietary restrictions.
+      All of our ingredients are carefully sourced and prepared with the utmost attention to quality and flavor. Our chefs have years of experience in creating authentic Asian dishes and are committed to using traditional cooking techniques to bring out the best in every meal.
+      We hope you will come visit us and experience the taste of Asia right here in our cozy and welcoming restaurant. Thank you for choosing us for your dining needs!
       </p>
       <div className="aboutButtons">
         <div className="aboutButton">

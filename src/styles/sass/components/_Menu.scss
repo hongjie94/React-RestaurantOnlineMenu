@@ -417,6 +417,11 @@ Thai Menu
   cursor: pointer;
   box-shadow: 0 0 1px 3px  $text-color !important;
 }
+.kXteup:hover:enabled, .kXteup:focus:enabled {
+  color: #fff;
+  background-color: $text-color !important;
+  box-shadow: 0 0 2px 0 #333;
+}
 .sliderImgs {
   width: 100%;
   height: 100%;

@@ -5,7 +5,7 @@
       "name": "Tom Yum Koong",
       "description": "Famous Thai Spicy Soup with mushroom & Thai herbs.",
       "item_num": null,
-      "price": "3.50",
+      "price": "4.00",
       "spicy": true
     },
     {
@@ -14,7 +14,7 @@
       "name": "Tom Kha",
       "description": "Coconut milk, mushroom & lime juice.",
       "item_num": null,
-      "price": "3.50",
+      "price": "4.00",
       "spicy": true
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seaweed Tofu Soup",
       "description": "Seaweed, tofu, egg white & tomato",
       "item_num": null,
-      "price": "3.50",
+      "price": "4.00",
       "spicy": false
     },
     {
@@ -32,7 +32,7 @@
       "name": "Thai Green Salad",
       "description": "Cucumber, lettuce, tomatoes, bean sprout, & dried bean curd with peanut dressing",
       "item_num": null,
-      "price": "4.00",
+      "price": "5.00",
       "spicy": false
     },
     {
@@ -41,7 +41,7 @@
       "name": "Yum",
       "description": "Onions, tomato, lettuce, & Thai herbs marinated in spicy lime juicy sauce",
       "item_num": null,
-      "price": "5.50",
+      "price": "6.50",
       "spicy": false
     },
     
@@ -51,7 +51,7 @@
       "name": "Shrimp Mermaid(5)",
       "description": "Deep-fried marinated whole shrimp wrapped with egg roll skin served with plum sauce.",
       "item_num": null,
-      "price": "5.50",
+      "price": "6.50",
       "spicy": false
     },
     
@@ -61,7 +61,7 @@
       "name": "Summer roll(3)",
       "description": "Most famous Vietnamese soft salad rolls with shrimp, Thai herbs, & vermicelli noodles.",
       "item_num": null,
-      "price": "5.50",
+      "price": "6.50",
       "spicy": false
     },
     {
@@ -70,7 +70,7 @@
       "name": "Tao Hoo Todd",
       "description": "Deep-fried, tofu served with a sweet chili sauce and ground peanut.",
       "item_num": null,
-      "price": "4.50",
+      "price": "5.00",
       "spicy": false
     },
     {
@@ -79,7 +79,7 @@
       "name": "Fried Banana with Honey(4)",
       "description": null,
       "item_num": null,
-      "price": "4.00",
+      "price": "4.50",
       "spicy": false
     },
     {
@@ -88,7 +88,7 @@
       "name": "Mango sticky rice",
       "description": null,
       "item_num": null,
-      "price": "5.00",
+      "price": "5.50",
       "spicy": false
     },
     {
@@ -178,7 +178,7 @@
         "name": "Thai's Beef Diced with Vietnamese & French Style",
         "description": "Freshly cut steak dices caramelized with spicy herby Thai's spices mixed with vegetables in garlic and black pepper sauce.",
         "item_num": "S1",
-        "price": "12.00",
+        "price": "14.00",
         "spicy": true
     },
     {
@@ -187,7 +187,7 @@
         "name": "Thai Mango Chicken",
         "description": "Delicious spicy mango sauce with red onion, tomato, and scallion.",
         "item_num": "S2",
-        "price": "11.00",
+        "price": "13.00",
         "spicy": false
     },
     {
@@ -196,7 +196,7 @@
         "name": "Coconut Shrimp",
         "description": "Stir-fried with pineapple, mushroom, bell peppers, & water chestnuts in a sweet coconut sauce.",
         "item_num": "S3",
-        "price": "11.00",
+        "price": "13.00",
         "spicy": false
     },
     {

@@ -22,7 +22,7 @@ const Specils = () => {
                   <img src={C1} alt="s15"/>
                 </div>
                 <div className="description">
-                    <h5>S15. Happy Family</h5> <span>$11.90</span>
+                    <h5>S15. Happy Family</h5> <span>$14.40</span>
                       <p>Shrimp, lobster, scallop, chicken, 
                         beef & roast pork with mix vegetables.</p>
                   </div>
@@ -33,7 +33,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                     <h5>51.Beef & Broccoli</h5> 
-                    <span>$8.15</span>
+                    <span>$11.60</span>
                     <p>Flank steak with broccoli
                         soy sauce, brown sugar & vegetable oil</p>
                   </div>
@@ -49,7 +49,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                     <h5>99a.Singapore Noodles <i className="fas fa-pepper-hot"></i></h5> 
-                    <span>$8.15</span>
+                    <span>$10.65</span>
                     <p>Thin rice noodles with shrimp, 
                       rosat pork, chicken,
                       napa cabbage, soy sauce,
@@ -62,7 +62,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                     <h5>H21.Sesame Chicken <i className="fas fa-pepper-hot"></i></h5> 
-                    <span>$9.70</span>
+                    <span>$12.20</span>
                     <p>Deep fried chicken with sweet & savory sesame sauce.</p>
                 </div>
               </li>
@@ -80,7 +80,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                   <h5>S2.Thai Mango Chicken</h5> 
-                  <span>$11.00</span>
+                  <span>$13.00</span>
                   <p>Delicious spicy mango sauce with red onion, 
                   tomato and scallion.</p>
                 </div>
@@ -91,7 +91,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                   <h5>C2.Green Curry <i className="fas fa-pepper-hot"></i></h5> 
-                  <span>$11.00</span>
+                  <span>$13.00</span>
                   <p>Eggplant, 
                     bamboo shoots, string beans, 
                     pepper, basil and coconut milk.</p>
@@ -108,7 +108,7 @@ const Specils = () => {
                 </div>
                 <div className="description">
                   <h5>S3.Coconut Shrimp </h5> 
-                  <span>$11.00</span>
+                  <span>$13.00</span>
                   <p>Stir-fried with pineapple, mushroom, 
                     bell peppers, & water chestnuts in a 
                     sweeet coconut sauce.</p>
@@ -121,7 +121,7 @@ const Specils = () => {
                 <div className="description">
                   <h5>S1.Thai's Beef <i className="fas fa-pepper-hot"></i></h5> 
                   {/* <span>Diced with Vietnamese & French Style</span> */}
-                  <span>$12.00</span>
+                  <span>$14.00</span>
                   <p>Freshly cut steak dices caramelized 
                     with spicy herby Thai's spices mixed with
                     vegetables in garlic and black pepper sauce.</p>
